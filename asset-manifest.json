@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.f66395d6.css",
-    "main.js": "/react-deploy/static/js/main.e94b2051.js",
+    "main.js": "/react-deploy/static/js/main.f1a66389.js",
     "static/js/787.fa3c4679.chunk.js": "/react-deploy/static/js/787.fa3c4679.chunk.js",
     "static/media/sliders.svg": "/react-deploy/static/media/sliders.07a0e59562aded129aac.svg",
     "static/media/sunrise.svg": "/react-deploy/static/media/sunrise.8a841b3b95440611e10b.svg",
@@ -23,11 +23,11 @@
     "static/media/check.svg": "/react-deploy/static/media/check.ffd4d9f896701562a4cb.svg",
     "static/media/chevron-up.svg": "/react-deploy/static/media/chevron-up.ea41eae66638440ee8b3.svg",
     "main.f66395d6.css.map": "/react-deploy/static/css/main.f66395d6.css.map",
-    "main.e94b2051.js.map": "/react-deploy/static/js/main.e94b2051.js.map",
+    "main.f1a66389.js.map": "/react-deploy/static/js/main.f1a66389.js.map",
     "787.fa3c4679.chunk.js.map": "/react-deploy/static/js/787.fa3c4679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66395d6.css",
-    "static/js/main.e94b2051.js"
+    "static/js/main.f1a66389.js"
   ]
 }
