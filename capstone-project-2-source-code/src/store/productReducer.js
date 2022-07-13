@@ -8,7 +8,7 @@ const productReducers = (state = initialState, action) => {
             return {
                 ...state,
                 products: action.payload,
-                error: action.error
+                error: action.payload
             };
         case types.GET_SINGLE_PRODUCT:
             return {
