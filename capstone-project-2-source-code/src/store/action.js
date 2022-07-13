@@ -19,7 +19,7 @@ export const loadProducts = () => {
             dispatch(getProducts(res.data));
         }).catch((error) => {
             error = new Error("Something went wrong!");
-            dispatch(getProducts(error));
+            dispatch(getProduct(error));
         });
     };
 };
