@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.a0255a89.css",
+    "main.css": "/react-deploy/static/css/main.d7f97edf.css",
     "main.js": "/react-deploy/static/js/main.b4d49148.js",
     "static/js/787.fa3c4679.chunk.js": "/react-deploy/static/js/787.fa3c4679.chunk.js",
     "static/media/sliders.svg": "/react-deploy/static/media/sliders.07a0e59562aded129aac.svg",
@@ -22,12 +22,12 @@
     "static/media/check-white.svg": "/react-deploy/static/media/check-white.686a133c8c247b95c663.svg",
     "static/media/check.svg": "/react-deploy/static/media/check.ffd4d9f896701562a4cb.svg",
     "static/media/chevron-up.svg": "/react-deploy/static/media/chevron-up.ea41eae66638440ee8b3.svg",
-    "main.a0255a89.css.map": "/react-deploy/static/css/main.a0255a89.css.map",
+    "main.d7f97edf.css.map": "/react-deploy/static/css/main.d7f97edf.css.map",
     "main.b4d49148.js.map": "/react-deploy/static/js/main.b4d49148.js.map",
     "787.fa3c4679.chunk.js.map": "/react-deploy/static/js/787.fa3c4679.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0255a89.css",
+    "static/css/main.d7f97edf.css",
     "static/js/main.b4d49148.js"
   ]
 }
